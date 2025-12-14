@@ -37,8 +37,7 @@ Educational institutions and training centers struggled with:
 - **Infrastructure / Deployment:** Docker, AWS EC2, S3, RDS  
 - **CI/CD:** GitHub Actions  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
+ 
 
 ---
 
